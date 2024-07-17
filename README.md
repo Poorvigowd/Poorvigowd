@@ -1,15 +1,13 @@
-- 👋 Hi, I’m @Poorvika H R Gowda ✨
+
+<h1 align="center">Hi 👋, I'm Poorvika H R Gowda</h1>
+<h3 align="center">A PASSIONATE CODER</h3>
+
+-- 👋 Hi, I’m @Poorvika H R Gowda ✨
 - 👀 I’m interested in learning Artificial Intelligence
 - 🌱 I’m currently learning Generative Ai
 - 📫 How to reach me ...poorvigowdahr8@gmail.com
 - ⚡ Fun fact: ...i am poetic and love painting 
 
-<h1 align="center">Hi 👋, I'm Poorvika H R Gowda</h1>
-<h3 align="center">A passionate worker</h3>
-
-- 🌱 I’m currently learning **python in artificial intelligence**
-
-- 📫 How to reach me **poorvigowdahr8@gmail.com**
 
 <h3 align="left">Connect with me: poorvigowdahr8@gmail.com</h3>
 <p align="left">
